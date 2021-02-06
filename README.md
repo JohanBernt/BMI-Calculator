@@ -1,2 +1,3 @@
 # BMI-Calculator
-Simple BMI Calculator exercise using functions
+Simple BMI Calculator exercise using functions.
+This BMI Calculator uses the Math.pow function to return the base to the exponent power and the Math.round function to round the outcome to the nearest whole number.
