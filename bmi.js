@@ -5,4 +5,4 @@ function bmiCalculator(weight, height) {
     return Math.round(bmi);
 }
 
-bmiCalculator(72, 1.75);
+bmiCalculator(72, 1.75); // this calls the function.
